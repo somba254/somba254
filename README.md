@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @somba254
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Java, Go and Python
+- 🌱 I’m currently learning Java, C# and Python
 - 💞️ I’m looking to collaborate on Backend projects
 - 📫 How to reach me email:musomba947@gmail.com
 - 😄 Pronouns: He/Him
